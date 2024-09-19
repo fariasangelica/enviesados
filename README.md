@@ -10,7 +10,6 @@ Insights do livro Enviesados do autor Rian Dutra, especialista em psicologia apl
 >
 > Em um mercado onde o ferramental é supervalorizado, eu quero o contrapor com um olhar mais profundo sobre o lado humano do usuário, através do meu conceito Design de Experiência Humana.
 >
-> "Tendemos a confiar muito na primeira informação que recebemos."
 >
 >  ## CAPÍTULO 1 - Tendemos a confiar muito na primeira informação que recebemos
 > Quando tentamos tomar alguma decisão, tendemos a usar uma âncora ou um ponto focal coo referência, e temos uma tendência a confiar demais na primeira informação que recebemos, mesmo sendo algo que não diretamente relacionado, afetando nossas tomadas de decisão.
