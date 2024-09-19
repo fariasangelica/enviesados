@@ -1,7 +1,7 @@
 # Enviesados
 Insights do livro Enviesados do autor Rian Dutra, especialista em psicologia aplicada ao design da experiência do usuário.
 
-![image](https://github.com/user-attachments/assets/d24590a8-4738-42a1-b26b-503b19c50e30)
+<img width="486" alt="app sorteio - git" src="https://github.com/user-attachments/assets/d24590a8-4738-42a1-b26b-503b19c50e30">
 
 ## Introdução
 > O que faz um produto ser bom? Como um design o torna memorável? O que torna um serviço mais desejado que outros? O que faz um negócio digital ter seus resultados mais alavancados? Qual é o ponto-chave dos produtos e serviços formadores de hábito? Como um design pode convencer as pessoas? Como engajar, reter e vender mais através do design?
