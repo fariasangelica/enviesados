@@ -23,7 +23,7 @@ Insights do livro Enviesados do autor Rian Dutra, especialista em psicologia apl
 >   
 > - Oferecer valor initário mais caro: Dar a oção de o usuário escolher um pacote de itens por um preço melhor do que unitário - por exemplo, 3 desodorantes por R$ 30 ao invés de apenas um por R$ 14 - os torna mais propensos a comprar mais itens de uma vez só, mesmo que não precisem. 
 >
-> ## CAPÍTULO 2 - Tendemos a confiar muito na primeira informação que recebemos
+> ## CAPÍTULO 2 - Sentimos a dor de perder algo duas vezes mais intensamente do que o prazer de ganhar
 > As pessoas sentem as perdas de maneira muito diferente dos ganhos. E, quando se trata de Aversão à perda em design de produtos, podemos ter duas abordagens quanto às pessoas que têm contato com nosso negócio.
 >
 > - Podemos usar o medo de perder para potencialmente aumentarmos as chances de fisgarmos como clientes, melhorando as convensões e o engajamento; ou
