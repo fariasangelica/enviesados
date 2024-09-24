@@ -42,6 +42,7 @@ Insights do livro Enviesados do autor Rian Dutra, especialista em psicologia apl
 >
 > A aversão à perda pode impactar significamente nossas próprias decisções e levar a tomadas de decisões ruins. E, claro, não queremos perder. Mas esse medo pode impedir que assumamos até riscos bem calculados, que nos proporcionariam boas oportunidades e ganhos consideráveis.
 >
-> ## CAPÍTULO 3 - 
+> ## CAPÍTULO 3 - Gastamos e compramos mais quando não vemos o dinheiro
+> 
 >  
 
